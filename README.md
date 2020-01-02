@@ -17,10 +17,10 @@
 微信:v7.0.9 
 
 ### 截图
-![](./screenshot/Screenshot_20191215-210742.jpg)
-![](./screenshot/Screenshot_20191215-210859.jpg)
-![](./screenshot/Screenshot_20191215-210930.jpg)
-![](./screenshot/Screenshot_20191215-211034.jpg)
+![](./screenshot/device-2020-01-02-202557.jpg)
+![](./screenshot/device-2020-01-02-202750.jpg)
+![](./screenshot/device-2020-01-02-202941.jpg)
+![](./screenshot/device-2020-01-02-203056.jpg)
 
 ### 支持我们
 ![](./screenshot/alipay.jpeg)
